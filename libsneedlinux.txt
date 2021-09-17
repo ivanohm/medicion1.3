@@ -1,0 +1,17 @@
+librerias a usar para levantar el servidor 
+deben ser las que comentan en los foros y estas 
+para sf 
+sudo apt-get -y update && apt-get install -y  libudunits2-dev libgdal-dev libgeos-dev libproj-dev 
+sudo apt-get install libgeos-c1v5 libgeos++-dev libgdal1-dev libgeos-c1 gdal-bin proj-bin libjs-leaflet swig libspatialite-dev
+sudo apt-get install libgflags-dev libgoogle-glog-dev libgtest-dev libssl-dev
+sudo apt-get install cmake make gcc g++ gfortran java default-jre default-jdk
+sudo apt install r-base-dev r-cran-sf r-cran-raster r-cran-rjava
+sudo add-apt-repository ppa:ubuntugis/ubuntugis-unstable
+sudo apt-get install gdal* expat* proj*
+sudo apt-get update
+
+sudo apt install r-cran-cpp11 r-cran-dbi r-cran-magrittr r-cran-s2 r-cran-units r-cran-wk udunits-bin
+
+
+
+
