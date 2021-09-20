@@ -1,8 +1,5 @@
 server <- function(input, output, session) {
-<<<<<<< HEAD
-    
-=======
->>>>>>> 8b55cbf4bde0f2069b936b195a20440226356093
+
 
     ## Filtros para la tabla de datos 
     

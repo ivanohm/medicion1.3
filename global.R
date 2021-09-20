@@ -4,20 +4,15 @@
 ## Programa de visualización de datos de la medición municipal 
 
 ##
-Rprof()
 
 ## Instalamos las librerias a usar 
-setwd("C:/Users/iohernandez/Documents/medicion1.3")
 
 ## librerias
 library(shiny)
 library(shinydashboard)
 library(shinyWidgets)
 library(DT)
-<<<<<<< HEAD
-=======
 library(dplyr)
->>>>>>> 8b55cbf4bde0f2069b936b195a20440226356093
 library(stringr)
 library(reshape2)
 library(shinycssloaders)
@@ -37,17 +32,10 @@ library(leaflet)
 library(tableHTML)
 library(shinythemes)
 library(htmlwidgets)
-<<<<<<< HEAD
 library(bslib)
 library(showtext)
-#library(sdmpredictors)
-#library(testthat)
 library(dplyr)
-=======
 
-
-
->>>>>>> 8b55cbf4bde0f2069b936b195a20440226356093
 
 ## Carga de datos
 load(file = "data/datos.rda")
